@@ -1,4 +1,4 @@
-# Vehicle Booking Application
+# Vehicle Booking Application (Unfinished)
 
 ## Daftar Username-Password
 - Username: novastella
@@ -17,3 +17,4 @@
 3. Jalankan perintah `npm start` untuk memulai aplikasi.
 4. Admin dapat mengakses endpoint `/admin/book` untuk memesan kendaraan.
 5. Pihak yang menyetujui dapat mengakses endpoint `/approval/approve` atau `/approval/reject` untuk menyetujui atau menolak pemesanan.
+
