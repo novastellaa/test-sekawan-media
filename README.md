@@ -18,3 +18,12 @@
 4. Admin dapat mengakses endpoint `/admin/book` untuk memesan kendaraan.
 5. Pihak yang menyetujui dapat mengakses endpoint `/approval/approve` atau `/approval/reject` untuk menyetujui atau menolak pemesanan.
 
+
+## Noted
+
+Saya ingin menyampaikan permohonan maaf yang sebesar-besarnya karena tidak dapat menyelesaikan tes secara sempurna.
+
+Saya sangat menghargai kesempatan yang telah diberikan dan berharap masih dapat diberikan kesempatan untuk mengikuti tes ulang atau proses seleksi lainnya. Saya berkomitmen untuk mempersiapkan diri lebih baik lagi di masa mendatang.
+
+Terima kasih atas pengertian dan kesempatan yang diberikan 🙏.
+
